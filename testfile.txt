@@ -1,2 +1,2 @@
 testing a file to push to github
-echo "testfile" > file01
+echo "testfile" > testfile
